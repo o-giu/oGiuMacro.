@@ -1,7 +1,7 @@
 # <p align="center">oGiuMacro - Automation Tool for Linux<p>
 
 <p align="center">
-  <a href="https://github.com/o-giu/oGiuMacro/releases/" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/o-giu/oGiuMacro./releases/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Download_AppImage-Releases-blue?style=for-the-badge"/>
   </a><br>
   <sup><img src="https://raw.githubusercontent.com/o-giu/o-giu/9a03819194c3d8309883ecbfd52a2698322174c0/images/01.svg" width="14"/> Baixe, dê permissão (<code>chmod +x</code>) e rode! &nbsp; <br>&nbsp; <img src="https://raw.githubusercontent.com/o-giu/o-giu/9a03819194c3d8309883ecbfd52a2698322174c0/images/02.svg" width="14"/> Download, grant permission (<code>chmod +x</code>), and run!</sup>
@@ -11,7 +11,7 @@
 
 ---
 
-<details><summary>📸 <img src="https://raw.githubusercontent.com/o-giu/o-giu/9a03819194c3d8309883ecbfd52a2698322174c0/images/01.svg" width="20"/> Clique aqui para ver as Imagens / <img src="https://raw.githubusercontent.com/o-giu/o-giu/9a03819194c3d8309883ecbfd52a2698322174c0/images/02.svg" width="20"/> Click here to see the Images</summary><img src="https://raw.githubusercontent.com/o-giu/oGiuMacro/refs/heads/main/image/01.png"/> <img src="https://raw.githubusercontent.com/o-giu/oGiuMacro/refs/heads/main/image/02.png"/></details>
+<details><summary>📸 <img src="https://raw.githubusercontent.com/o-giu/o-giu/9a03819194c3d8309883ecbfd52a2698322174c0/images/01.svg" width="20"/> Clique aqui para ver as Imagens / <img src="https://raw.githubusercontent.com/o-giu/o-giu/9a03819194c3d8309883ecbfd52a2698322174c0/images/02.svg" width="20"/> Click here to see the Images</summary><img src="https://raw.githubusercontent.com/o-giu/oGiuMacro./refs/heads/main/image/01.png"/> <img src="https://raw.githubusercontent.com/o-giu/oGiuMacro./refs/heads/main/image/02.png"/></details>
 
 <img src="https://raw.githubusercontent.com/o-giu/o-giu/9a03819194c3d8309883ecbfd52a2698322174c0/images/01.svg" width="20"/> Um app de automação leve e direto ao ponto, feito em C++. Crie, grave e execute suas macros com precisão.</span><br>
 <img src="https://raw.githubusercontent.com/o-giu/o-giu/9a03819194c3d8309883ecbfd52a2698322174c0/images/02.svg" width="20"/> A lightweight and straight-to-the-point automation app, built with C++. Create, record, and run your macros with precision.</span>
